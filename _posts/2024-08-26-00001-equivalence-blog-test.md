@@ -146,7 +146,7 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 ## Images
 
 ### Default (with caption)
-![Confusion Matrix Test](_posts/00001/01_con_matrix_test.png){: width="972" height="589" }
+![Confusion Matrix Test](_posts/00001/blog_image_test.png){: width="972" height="589" }
 _Full screen width and center alignment_
 
 
