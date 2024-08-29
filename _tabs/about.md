@@ -23,7 +23,7 @@ Expect posts on topics such as Classical Machine Learning, Mathematics for Machi
 
 In 2023, after two years with my employer, and despite greatly appreciating them, I made the bold decision to step away from my Data Engineer role. I realized that while my duties were valuable for the company, they were no longer fully fulfilling me intellectually.
 
-Before this, in 2016, I graduated with a Bachelor's in Computer Systems Engineering and subcontinued to work for about five years in North American and German companies as a Database Engineer and Data Analyst/Engineer, respectively.
+Before this, in 2016, I graduated with a Bachelor's in Computer Systems Engineering and continued after to work for about five years in North American and German companies as a Database Engineer and Data Analyst/Engineer, respectively.
 
 Motivated to leave my former focus behind, with an open mind and a desire to explore new areas of interest and fresh challenges, I enrolled in an Informatics master’s program at the University of Hamburg, Germany. After my first semester, it became clear to me that my newly discovered interest lies in applied mathematics and its related fields, particularly Machine Learning and Optimization. While this master’s program provided the exposure I needed to discover these interests and shape my understanding, I realized there was work to be done—specifically, catching up on the fundamental mathematics I either forgot after more than eight years away from university or didn’t fully grasp in the first place. This effort is aimed at building a strong foundation to fairly pursue these new interests.
 
