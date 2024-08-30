@@ -14,12 +14,12 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: PF-Blog # the main title
+title: "ML & Optimization: A learning Potfolio" # the main title
 
-tagline: MJsanflo blog collection # it will display as the sub-title
+tagline: "Self-guided explorations in ML, Math, and Optimization" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Collection of blog posts on academic topics for portfolio purposes.
+  A blog dedicated to independent explorations in Machine Learning, Mathematical Optimization, and applied mathematics
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -96,7 +96,7 @@ theme_mode: light
 # cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: avatar-test.png
+avatar: avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
